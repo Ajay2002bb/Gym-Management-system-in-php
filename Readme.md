@@ -29,7 +29,8 @@ A web-based Gym Management System built using PHP, MySQL, HTML, CSS, and JavaScr
 ## 📂 Folder Structure
 gym/ ├── admin/ → Admin dashboard ├── css/ → Stylesheets ├── js/ → Scripts ├── SQL File/ → Database 
 
-How to run the GYM  Management System Project Using PHP and MySQL
+# How to run the GYM  Management System Project Using PHP and MySQL
+
 1.Download the zip file
 
 2.Extract the file and copy gym folder
