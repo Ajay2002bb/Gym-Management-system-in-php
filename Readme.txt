@@ -1,3 +1,34 @@
+# Gym Management System (PHP & MySQL)
+
+A web-based Gym Management System built using PHP, MySQL, HTML, CSS, and JavaScript. It allows admin users to manage members, packages, bookings, reports, and more.
+
+## 💡 Features
+- Admin Dashboard
+- Manage Categories & Packages
+- Booking History
+- Registration Reports
+- Login & Authentication
+- Admin Profile Management
+- Responsive UI with Bootstrap
+
+## 🛠️ Technologies Used
+- PHP
+- MySQL
+- HTML/CSS
+- JavaScript
+- Bootstrap
+- jQuery
+
+## 🖥️ How to Run
+1. Clone this repo or download the ZIP
+2. Place it in `C:/xampp/htdocs/`
+3. Start XAMPP and enable Apache & MySQL
+4. Open phpMyAdmin and import the SQL file from `/SQL File/gymdb.sql`
+5. Open browser: `http://localhost/GYM-Management-System-using-PHP`
+
+## 📂 Folder Structure
+gym/ ├── admin/ → Admin dashboard ├── css/ → Stylesheets ├── js/ → Scripts ├── SQL File/ → Database 
+
 How to run the GYM  Management System Project Using PHP and MySQL
 1.Download the zip file
 
